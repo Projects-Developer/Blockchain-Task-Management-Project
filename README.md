@@ -1,4 +1,4 @@
-# Blockchain-Task-Management-Project
+# Blockchain Task Management Project
 The Blockchain Task Management Project withcode, documents and video tutorial
 
 ![Blockchain](https://github.com/user-attachments/assets/103d178d-623e-4a7f-865f-59c9c0dad9f5)
